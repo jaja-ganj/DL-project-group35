@@ -1,6 +1,6 @@
-# Wildlife Camera Trap YOLO11 Notebooks
+# DL-project-group35
 
-This repository contains Jupyter notebooks for training and evaluating YOLO11-based object detection models on the Caltech Camera Traps dataset. The experiments focus on converting COCO-style camera trap annotations into YOLO format, reducing location and background bias, and comparing cis/trans split performance.
+Wildlife monitoring notebooks for training and evaluating YOLO11-based object detection models on the Caltech Camera Traps dataset. The experiments focus on converting COCO-style camera trap annotations into YOLO format, reducing location and background bias, and comparing cis/trans split performance.
 
 ## Notebooks
 
